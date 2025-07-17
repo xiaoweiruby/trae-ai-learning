@@ -65,8 +65,8 @@ AI 赋能，编程更简单
 第四章： MCP 环境搭建与应用  
   深入探讨 MCP 的配置与使用，涵盖 GodotMCP、UnityMCP、BlenderMCP、FigmaMCP 和 MiniMax MCP 的实战案例。
 
-第五章：Trae AI 进阶技巧  
-  介绍自动化代码生成、调试与优化等。
+第五章：构建你的智能体
+  介绍智能体生成、调试与使用等。
 
 第三部分：Trae AI 项目实战
 第六章至第十章  
